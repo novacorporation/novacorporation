@@ -1,0 +1,10 @@
+h1 {
+    background-color: black;
+    text-color: DarkGreen;
+    text-align: center
+}
+
+body {
+    background-color: black
+    text-color: DarkGreen
+    text-align: left
